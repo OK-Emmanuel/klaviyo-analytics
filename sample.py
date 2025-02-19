@@ -35,9 +35,10 @@ def get_profiles():
     
     # Testing a function
 
-if __name__ == "__main__":
-    profiles = get_profiles()
-    print(profiles)
+# if __name__ == "__main__":
+#     profiles = get_profiles()
+#     print(profiles)
+
 
         
 
