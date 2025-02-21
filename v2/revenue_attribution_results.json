@@ -1,0 +1,137 @@
+[
+  {
+    "klaviyo_api_key":"pk_4473c5da5f3194e0197ad27caea62f4ad8",
+    "campaign_id":"01JMFA87KG9GMCSA6Z9XT8JC9M",
+    "campaign_name":"Internal Klaviyo - Test Campaign Name",
+    "send_time":"2025-02-19",
+    "total_attributed_revenue":0.0,
+    "new_customers_revenue":0.0,
+    "recurring_customers_revenue":0.0
+  },
+  {
+    "klaviyo_api_key":"pk_4473c5da5f3194e0197ad27caea62f4ad8",
+    "campaign_id":"01JAJR8CJZ93V5EQXRAQXHRBYQ",
+    "campaign_name":"Email Campaign - Oct 19, 2024, 5:02 PM",
+    "send_time":"2024-10-19",
+    "total_attributed_revenue":0.0,
+    "new_customers_revenue":0.0,
+    "recurring_customers_revenue":0.0
+  },
+  {
+    "klaviyo_api_key":"pk_4473c5da5f3194e0197ad27caea62f4ad8",
+    "campaign_id":"01JAJQPJY6EPHP93VEDWP1CHPJ",
+    "campaign_name":"Email Campaign - Oct 19, 2024, 4:52 PM",
+    "send_time":"2024-10-19",
+    "total_attributed_revenue":0.0,
+    "new_customers_revenue":0.0,
+    "recurring_customers_revenue":0.0
+  },
+  {
+    "klaviyo_api_key":"pk_4473c5da5f3194e0197ad27caea62f4ad8",
+    "campaign_id":"01JAJP4N25399THDDJCC34Y47B",
+    "campaign_name":"Email Campaign - Oct 19, 2024, 4:25 PM",
+    "send_time":"2024-10-19",
+    "total_attributed_revenue":0.0,
+    "new_customers_revenue":0.0,
+    "recurring_customers_revenue":0.0
+  },
+  {
+    "klaviyo_api_key":"pk_4473c5da5f3194e0197ad27caea62f4ad8",
+    "campaign_id":"01JAJMSEM44WTR43CHW1FYC45F",
+    "campaign_name":"Email Campaign - Oct 19, 2024, 4:01 PM",
+    "send_time":"2024-10-19",
+    "total_attributed_revenue":0.0,
+    "new_customers_revenue":0.0,
+    "recurring_customers_revenue":0.0
+  },
+  {
+    "klaviyo_api_key":"pk_4473c5da5f3194e0197ad27caea62f4ad8",
+    "campaign_id":"01JAJKY3Y90KX8XNX2TR13CVGK",
+    "campaign_name":"Email Campaign - Oct 19, 2024, 3:46 PM",
+    "send_time":"2024-10-19",
+    "total_attributed_revenue":0.0,
+    "new_customers_revenue":0.0,
+    "recurring_customers_revenue":0.0
+  },
+  {
+    "klaviyo_api_key":"pk_4473c5da5f3194e0197ad27caea62f4ad8",
+    "campaign_id":"01JAEMQ3MQMXPXJHBA5ZEP557E",
+    "campaign_name":"Email Campaign - Oct 18, 2024, 2:43 AM",
+    "send_time":"2024-10-18",
+    "total_attributed_revenue":0.0,
+    "new_customers_revenue":0.0,
+    "recurring_customers_revenue":0.0
+  },
+  {
+    "klaviyo_api_key":"pk_4473c5da5f3194e0197ad27caea62f4ad8",
+    "campaign_id":"01J95DW44SMV79SY40QE24C5QW",
+    "campaign_name":"Email Campaign - Oct 2, 2024, 2:35 AM",
+    "send_time":"2024-10-02",
+    "total_attributed_revenue":0.0,
+    "new_customers_revenue":0.0,
+    "recurring_customers_revenue":0.0
+  },
+  {
+    "klaviyo_api_key":"pk_4473c5da5f3194e0197ad27caea62f4ad8",
+    "campaign_id":"01J95CXW6JZKG6WM1QTBTERZRJ",
+    "campaign_name":"Email Campaign - Oct 2, 2024, 2:18 AM",
+    "send_time":"2024-10-02",
+    "total_attributed_revenue":0.0,
+    "new_customers_revenue":0.0,
+    "recurring_customers_revenue":0.0
+  },
+  {
+    "klaviyo_api_key":"pk_4473c5da5f3194e0197ad27caea62f4ad8",
+    "campaign_id":"01J95BZQ4GHCZKDW8ZGP5S9W8F",
+    "campaign_name":"Email Campaign - Oct 2, 2024, 2:01 AM",
+    "send_time":"2024-10-02",
+    "total_attributed_revenue":0.0,
+    "new_customers_revenue":0.0,
+    "recurring_customers_revenue":0.0
+  },
+  {
+    "klaviyo_api_key":"pk_4473c5da5f3194e0197ad27caea62f4ad8",
+    "campaign_id":"01J9568EGQAVG4183GTT2EV4WH",
+    "campaign_name":"Email Campaign - Oct 2, 2024, 12:22 AM",
+    "send_time":"2024-10-01",
+    "total_attributed_revenue":0.0,
+    "new_customers_revenue":0.0,
+    "recurring_customers_revenue":0.0
+  },
+  {
+    "klaviyo_api_key":"pk_4473c5da5f3194e0197ad27caea62f4ad8",
+    "campaign_id":"SCJATy",
+    "campaign_name":"Email Welcome Series with Discount",
+    "send_time":"2025-02-21",
+    "total_attributed_revenue":0.0,
+    "new_customers_revenue":0.0,
+    "recurring_customers_revenue":0.0
+  },
+  {
+    "klaviyo_api_key":"pk_4473c5da5f3194e0197ad27caea62f4ad8",
+    "campaign_id":"UkzQ6P",
+    "campaign_name":"Welcome Series - Customer v. Non-Customer",
+    "send_time":"2025-02-21",
+    "total_attributed_revenue":0.0,
+    "new_customers_revenue":0.0,
+    "recurring_customers_revenue":0.0
+  },
+  {
+    "klaviyo_api_key":"pk_4473c5da5f3194e0197ad27caea62f4ad8",
+    "campaign_id":"Yqvp7N",
+    "campaign_name":"Trailblaizer Subscribers - Standard",
+    "send_time":"2025-02-21",
+    "total_attributed_revenue":0.0,
+    "new_customers_revenue":0.0,
+    "recurring_customers_revenue":0.0
+  },
+  {
+    "klaviyo_api_key":"pk_4473c5da5f3194e0197ad27caea62f4ad8",
+    "campaign_id":"VpJSR4",
+    "campaign_name":"TRAILBLAIZER Unengaged Subscribers - Standard",
+    "send_time":"2025-02-21",
+    "total_attributed_revenue":0.0,
+    "new_customers_revenue":0.0,
+    "recurring_customers_revenue":0.0
+  }
+]
