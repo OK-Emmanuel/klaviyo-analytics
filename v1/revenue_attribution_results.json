@@ -1,0 +1,122 @@
+[
+  {
+    "campaign_id":"01JMFA87KG9GMCSA6Z9XT8JC9M",
+    "campaign_name":"Internal Klaviyo - Test Campaign Name",
+    "send_time":"2025-02-19T14:37:07.083068+00:00",
+    "total_attributed_revenue":0.0,
+    "new_customers_revenue":0.0,
+    "recurring_customers_revenue":0.0
+  },
+  {
+    "campaign_id":"01JAJR8CJZ93V5EQXRAQXHRBYQ",
+    "campaign_name":"Email Campaign - Oct 19, 2024, 5:02 PM",
+    "send_time":"2024-10-19T16:02:37.280966+00:00",
+    "total_attributed_revenue":0.0,
+    "new_customers_revenue":0.0,
+    "recurring_customers_revenue":0.0
+  },
+  {
+    "campaign_id":"01JAJQPJY6EPHP93VEDWP1CHPJ",
+    "campaign_name":"Email Campaign - Oct 19, 2024, 4:52 PM",
+    "send_time":"2024-10-19T15:52:53.959867+00:00",
+    "total_attributed_revenue":0.0,
+    "new_customers_revenue":0.0,
+    "recurring_customers_revenue":0.0
+  },
+  {
+    "campaign_id":"01JAJP4N25399THDDJCC34Y47B",
+    "campaign_name":"Email Campaign - Oct 19, 2024, 4:25 PM",
+    "send_time":"2024-10-19T15:25:37.735366+00:00",
+    "total_attributed_revenue":0.0,
+    "new_customers_revenue":0.0,
+    "recurring_customers_revenue":0.0
+  },
+  {
+    "campaign_id":"01JAJMSEM44WTR43CHW1FYC45F",
+    "campaign_name":"Email Campaign - Oct 19, 2024, 4:01 PM",
+    "send_time":"2024-10-19T15:02:02.119443+00:00",
+    "total_attributed_revenue":0.0,
+    "new_customers_revenue":0.0,
+    "recurring_customers_revenue":0.0
+  },
+  {
+    "campaign_id":"01JAJKY3Y90KX8XNX2TR13CVGK",
+    "campaign_name":"Email Campaign - Oct 19, 2024, 3:46 PM",
+    "send_time":"2024-10-19T14:47:06.442409+00:00",
+    "total_attributed_revenue":0.0,
+    "new_customers_revenue":0.0,
+    "recurring_customers_revenue":0.0
+  },
+  {
+    "campaign_id":"01JAEMQ3MQMXPXJHBA5ZEP557E",
+    "campaign_name":"Email Campaign - Oct 18, 2024, 2:43 AM",
+    "send_time":"2024-10-18T01:43:47.609302+00:00",
+    "total_attributed_revenue":0.0,
+    "new_customers_revenue":0.0,
+    "recurring_customers_revenue":0.0
+  },
+  {
+    "campaign_id":"01J95DW44SMV79SY40QE24C5QW",
+    "campaign_name":"Email Campaign - Oct 2, 2024, 2:35 AM",
+    "send_time":"2024-10-02T01:35:20.218329+00:00",
+    "total_attributed_revenue":0.0,
+    "new_customers_revenue":0.0,
+    "recurring_customers_revenue":0.0
+  },
+  {
+    "campaign_id":"01J95CXW6JZKG6WM1QTBTERZRJ",
+    "campaign_name":"Email Campaign - Oct 2, 2024, 2:18 AM",
+    "send_time":"2024-10-02T01:18:49.043089+00:00",
+    "total_attributed_revenue":0.0,
+    "new_customers_revenue":0.0,
+    "recurring_customers_revenue":0.0
+  },
+  {
+    "campaign_id":"01J95BZQ4GHCZKDW8ZGP5S9W8F",
+    "campaign_name":"Email Campaign - Oct 2, 2024, 2:01 AM",
+    "send_time":"2024-10-02T01:02:20.817416+00:00",
+    "total_attributed_revenue":0.0,
+    "new_customers_revenue":0.0,
+    "recurring_customers_revenue":0.0
+  },
+  {
+    "campaign_id":"01J9568EGQAVG4183GTT2EV4WH",
+    "campaign_name":"Email Campaign - Oct 2, 2024, 12:22 AM",
+    "send_time":"2024-10-01T23:22:15.448455+00:00",
+    "total_attributed_revenue":0.0,
+    "new_customers_revenue":0.0,
+    "recurring_customers_revenue":0.0
+  },
+  {
+    "campaign_id":"SCJATy",
+    "campaign_name":"Email Welcome Series with Discount",
+    "send_time":"2025-02-21T17:57:05.282633",
+    "total_attributed_revenue":0.0,
+    "new_customers_revenue":0.0,
+    "recurring_customers_revenue":0.0
+  },
+  {
+    "campaign_id":"UkzQ6P",
+    "campaign_name":"Welcome Series - Customer v. Non-Customer",
+    "send_time":"2025-02-21T17:57:05.282633",
+    "total_attributed_revenue":0.0,
+    "new_customers_revenue":0.0,
+    "recurring_customers_revenue":0.0
+  },
+  {
+    "campaign_id":"Yqvp7N",
+    "campaign_name":"Trailblaizer Subscribers - Standard",
+    "send_time":"2025-02-21T17:57:05.282633",
+    "total_attributed_revenue":0.0,
+    "new_customers_revenue":0.0,
+    "recurring_customers_revenue":0.0
+  },
+  {
+    "campaign_id":"VpJSR4",
+    "campaign_name":"TRAILBLAIZER Unengaged Subscribers - Standard",
+    "send_time":"2025-02-21T17:57:05.282633",
+    "total_attributed_revenue":0.0,
+    "new_customers_revenue":0.0,
+    "recurring_customers_revenue":0.0
+  }
+]
